@@ -1,0 +1,7 @@
+important
+*.terraform
+*.terraform.*
+**/.terraform/*
+*.exe
+*.tfstate.*
+*.tfstate
